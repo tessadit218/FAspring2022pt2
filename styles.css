@@ -1,0 +1,19 @@
+body{
+    background: rgb(255, 0, 212);
+}
+p{
+    font-size: larger; 
+    font-weight: bolder;
+    color: rgb(128, 18, 73);
+    font-family: monospace;
+} 
+
+img.twee2{
+    width: 1000px;
+    height: 1000px;
+}
+
+img.pic{
+    width: 1000px;
+    height: 1000px;
+}
